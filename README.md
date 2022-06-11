@@ -4,12 +4,11 @@
 <h3 align="center">I am a IT Student from India, and an incoming CS grad student at Boston University (BU's GRS CS Batch of '24)</h3>
 
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/88d3fd098edf2913851b16b8c983a196/tumblr_muk1bfIC731qg78wpo2_500.gifv"/>
+  <img src="https://64.media.tumblr.com/88d3fd098edf2913851b16b8c983a196/tumblr_muk1bfIC731qg78wpo2_500.gifv" width="100"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notgitika&label=Profile%20views&color=0e75b6&style=flat" alt="notgitika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notgitika" alt="notgitika" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gitdroid" target="blank"><img src="https://img.shields.io/twitter/follow/gitdroid?logo=twitter&style=for-the-badge" alt="gitdroid" /></a> </p>
 
