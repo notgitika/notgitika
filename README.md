@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey, I'm Gitika 🐱</h1>
-<h3 align="center">I am a IT Student from India, and a CS grad student at Boston University (BU's GRS CS Batch of '24)</h3>
+<h3 align="center">I am a CS grad student at Boston University (BU's GRS CS Batch of '24)</h3>
 
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/88d3fd098edf2913851b16b8c983a196/tumblr_muk1bfIC731qg78wpo2_500.gifv">
