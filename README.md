@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey, I'm Gitika 🐱</h1>
-<h3 align="center">I am a CS grad student at Boston University (BU's GRS CS Batch of '24)</h3>
+<h3 align="center">I am a Software Development Engineer at Amazon Web Services based in NYC </h3>
 
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/88d3fd098edf2913851b16b8c983a196/tumblr_muk1bfIC731qg78wpo2_500.gifv">
@@ -12,15 +12,15 @@
 
 <p align="left"> <a href="https://twitter.com/gitdroid" target="blank"><img src="https://img.shields.io/twitter/follow/gitdroid?logo=twitter&style=for-the-badge" alt="gitdroid" /></a> </p>
 
-- 🔭 I’m currently working on **practicing programming problems and my research**
+- 🔭 I’m currently working on **AWS Q for Developers**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Machine learning (mainly NLP)**
 
-- 💬 Ask me about **Data Science, Flask and SQL**
+- 💬 Ask me about **Software Engineering, Machine Learning Papers and Computer Vision**
 
-- 📫 How to reach me **gitijh@gmail.com**
+- 📫 How to reach me **gitikavj@gmail.com**
 
-- ⚡ Fun fact **I am currently obsessed with exploring modern art**
+- ⚡ Fun fact: **I am currently obsessed with playing Valorant and Pickleball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
