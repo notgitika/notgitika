@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Software Engineering, Machine Learning Papers and Computer Vision**
 
-- 📫 How to reach me **gitikavj@gmail.com**
+- 📫 How to reach me **gitikavjha@gmail.com**
 
 - ⚡ Fun fact: **I am currently obsessed with playing Valorant and Pickleball**
 
